@@ -144,6 +144,7 @@ Pricing is the entry tier, not the ceiling — most freemium sites sell a featur
 | [IndieHub](https://indiehub.best/) | 42 | nofollow | paid |
 | [ProductBurst](https://productburst.com/) | 41 | dofollow | free |
 | [startuplist.ing](https://startuplist.ing/) | 41 | dofollow | paid |
+| [Awesome Indie](https://awesomeindie.com/) | 41 | nofollow | free |
 | [BuildVoyage](https://buildvoyage.com/) | 40 | dofollow | freemium |
 | [FindYourSaaS](https://www.findyoursaas.com/) | 40 | dofollow | freemium |
 | [Saaspa.ge](https://www.saaspa.ge/) | 40 | dofollow | free |
@@ -172,7 +173,6 @@ Pricing is the entry tier, not the ceiling — most freemium sites sell a featur
 | [HUNT0](https://hunt0.com) | 30 | dofollow | freemium |
 | [IndieHackerStacks](https://indiehackerstacks.com/) | 30 | dofollow | free |
 | [Stellar Launch](https://stellarlaunch.org/) | 30 | nofollow | freemium |
-| [AwesomeIndie](https://awesomeindie.com/) | 28 | nofollow | free |
 | [startuups](https://startuups.com/) | 26 | dofollow | freemium |
 | [EuroAlternative](https://euroalternative.co) | 25 | dofollow | free |
 | [Toollist](https://toollist.ai/) | 25 | dofollow | paid |
